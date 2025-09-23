@@ -1,4 +1,4 @@
-# PLSC-504-Final-project
+# PLSC-504-Final-project (Original README file from the replication data)
 The reproduction files are organized according to the dataset: 'ESS and USA', or 'SOEP and LISS'. The latter two are featured in the section of the paper entitled 'Where Do Differences Between Fields Come From?'. The ESS dataset is utilized throughout the remainder of the paper; the USA dataset is used in a footnote in the paper with supportive analyses in the Online Appendix E. 
 
 Additionally, we have provided separate code to integrate the CECT scores with the ESS and SOEP datasets, facilitating the use of CECT for other researchers. This code can be found in the 'CECT scores' folder. To incorporate the ESS into the LISS, please refer to the provided code that outlines the creation of the LISS datasets.
