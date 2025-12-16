@@ -1,9 +1,9 @@
 1. analysis.R - replicates all findings in the paper
 
-2. final_ready_for_analysis2.csv - replication data input for "analysis.R" file
+2. final_ready_for_analysis2.RData - replication data input for "analysis.R" file
 
 3. data_processing.R -  processing of raw ESS data, including assignment of CECT score and merge with CHES data
 
 4. 1999-2024_CHES_dataset_means.csv - Chappel Hill Expert survey data (CHES) used to code party positions
 
-5. ESS_all_waves_merged.csv - raw merged ESS data input for data_processing.R
+5. ESS_all_waves_merged.RData - raw merged ESS data input for data_processing.R
